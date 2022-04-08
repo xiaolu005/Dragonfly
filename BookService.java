@@ -26,6 +26,7 @@ import com.atguigu.bookstore.web.CriteriaBook;
 import com.atguigu.bookstore.web.Page;
 /**
  * test
+ * test2
  * */
 
 public class BookService {
