@@ -36,7 +36,7 @@ dragonfly2 test7
 dragonfly2 test9
 public class BookService {
 	dragonfly2 test5
-	
+	dragonfly2 test8
 	private BookDAO bookDAO = new BookDAOImpl();
 	
 	public Page<Book> getPage(CriteriaBook criteriaBook){
