@@ -24,6 +24,9 @@ import com.atguigu.bookstore.domain.Trade;
 import com.atguigu.bookstore.domain.TradeItem;
 import com.atguigu.bookstore.web.CriteriaBook;
 import com.atguigu.bookstore.web.Page;
+/**
+ * test
+ * */
 
 public class BookService {
 	
