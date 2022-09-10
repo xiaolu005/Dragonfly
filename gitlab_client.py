@@ -153,6 +153,7 @@ class GitLabClient(JSONApiClient):
             })
 
         for release in output:
+            print("hahaddd")
             query_string = urlencode({
                 'ref_name': release['commit'],
                 'per_page': 1
