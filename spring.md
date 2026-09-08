@@ -45,7 +45,7 @@ private UserService userService;
 ```
 
 找不到不报错，直接注入 null，**依然不会按名称兜底**。
-
+找不到不报错，直接注入 null，**依然不会按名称兜底**。
 ---
 
 ## 三、@Resource 完整规则（JSR-250）
