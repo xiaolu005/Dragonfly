@@ -9,7 +9,7 @@
 - 队列非持久化：`durable = false`
   服务重启、宕机，**队列直接消失**
 
-2. **消息持久化（deliveryMode）**
+2. **消息持久化（deliveryMode）**ccc
      队列里的消息是否存磁盘：
 - 消息持久化：`deliveryMode = 2`
   消息写入磁盘，宕机不丢
