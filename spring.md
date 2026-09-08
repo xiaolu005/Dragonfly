@@ -1,6 +1,9 @@
 # @Autowired 注入找不到类型时，会不会按名称找？@Resource 是不是也一样？
 
 ## 一、先给核心结论
+# @Autowired 注入找不到类型时，会不会按名称找？@Resource 是不是也一样？
+
+## 一、先给核心结论
 
 1. **@Autowired**
      默认**优先按类型 ByType 注入**；
